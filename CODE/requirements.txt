@@ -1,0 +1,9 @@
+dash==2.6.2
+dash-bootstrap-components==1.2.1
+geopandas
+pyshp==1.2.10
+numpy
+pandas
+plotly==5.11.0
+shapely==1.8.5
+plotly-geo
